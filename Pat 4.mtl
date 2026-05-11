@@ -1,0 +1,128 @@
+newmtl Sphere1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0322335 0.0318 0.03311 
+
+d 1
+
+Ns 255
+
+map_Ka Sphere1_diff.png
+map_Kd Sphere1_diff.png
+map_d Sphere1_diff.png
+
+rbx_alphamode overlay
+
+newmtl Cube0051Mtl
+Material Color
+Ka 0.00969633 0.00226295 0.000492504
+Kd 0.00969633 0.00226295 0.000492504
+Ks 0.000608397 0.000141989 3.09022e-05 
+
+d 1
+
+Ns 0
+
+map_Ka Cube0051_diff.png
+map_Kd Cube0051_diff.png
+map_d Cube0051_diff.png
+
+map_Bump Cube0051_nmap.png
+
+newmtl Cube0061Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0234425 0.0231273 0.02408 
+
+d 1
+
+Ns 0
+
+map_Ka Cube0051_diff.png
+map_Kd Cube0051_diff.png
+map_d Cube0051_diff.png
+
+map_Bump Cube0051_nmap.png
+
+newmtl Cube0021Mtl
+Material Color
+Ka 0.042987 0.0111261 0.00258583
+Kd 0.042987 0.0111261 0.00258583
+Ks 0.00269722 0.000698107 0.000162248 
+
+d 1
+
+Ns 0
+
+map_Ka Cube0051_diff.png
+map_Kd Cube0051_diff.png
+map_d Cube0051_diff.png
+
+map_Bump Cube0051_nmap.png
+
+newmtl Cube0111Mtl
+Material Color
+Ka 0.737205 0.420508 0.22331
+Kd 0.737205 0.420508 0.22331
+Ks 0.291991 0.166554 0.0884484 
+
+d 1
+
+Ns 0
+
+map_Ka Cube0051_diff.png
+map_Kd Cube0051_diff.png
+map_d Cube0051_diff.png
+
+map_Bump Cube0051_nmap.png
+
+newmtl Cube0011Mtl
+Material Color
+Ka 0.45908 0.21952 0.0915184
+Kd 0.45908 0.21952 0.0915184
+Ks 0.181832 0.086947 0.0362484 
+
+d 1
+
+Ns 0
+
+map_Ka Cube0051_diff.png
+map_Kd Cube0051_diff.png
+map_d Cube0051_diff.png
+
+map_Bump Cube0051_nmap.png
+
+newmtl Cube0121Mtl
+Material Color
+Ka 0.315763 0.111299 0.0328759
+Kd 0.315763 0.111299 0.0328759
+Ks 0.125067 0.0440833 0.0130214 
+
+d 1
+
+Ns 0
+
+map_Ka Cube0051_diff.png
+map_Kd Cube0051_diff.png
+map_d Cube0051_diff.png
+
+map_Bump Cube0051_nmap.png
+
+newmtl Cube0071Mtl
+Material Color
+Ka 0.383775 0.147998 0.0445526
+Kd 0.383775 0.147998 0.0445526
+Ks 0.152005 0.0586188 0.0176463 
+
+d 1
+
+Ns 0
+
+map_Ka Cube0051_diff.png
+map_Kd Cube0051_diff.png
+map_d Cube0051_diff.png
+
+map_Bump Cube0051_nmap.png
+

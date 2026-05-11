@@ -1,0 +1,56 @@
+newmtl RedcliffKnight1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka RedcliffKnight1_diff.png
+map_Kd RedcliffKnight1_diff.png
+map_d RedcliffKnight1_diff.png
+
+newmtl Handle1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Handle1_diff.png
+map_Kd Handle1_diff.png
+map_d Handle1_diff.png
+
+newmtl Lance1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Lance1_diff.png
+map_Kd Lance1_diff.png
+map_d Lance1_diff.png
+
+newmtl Shield1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Shield1_diff.png
+map_Kd Shield1_diff.png
+map_d Shield1_diff.png
+

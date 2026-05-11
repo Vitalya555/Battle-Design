@@ -1,0 +1,98 @@
+newmtl Lg1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Lg1_diff.png
+map_Kd Lg1_diff.png
+map_d Lg1_diff.png
+
+newmtl Hammer1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Hammer1_diff.png
+map_Kd Hammer1_diff.png
+map_d Hammer1_diff.png
+
+newmtl DeleteThis1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka DeleteThis1_diff.png
+map_Kd DeleteThis1_diff.png
+map_d DeleteThis1_diff.png
+
+newmtl Mask1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Mask1_diff.png
+map_Kd Mask1_diff.png
+map_d Mask1_diff.png
+
+newmtl Helm1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Helm1_diff.png
+map_Kd Helm1_diff.png
+map_d Helm1_diff.png
+
+newmtl Coat1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Coat1_diff.png
+map_Kd Coat1_diff.png
+map_d Coat1_diff.png
+
+newmtl Rg1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Rg1_diff.png
+map_Kd Rg1_diff.png
+map_d Rg1_diff.png
+
