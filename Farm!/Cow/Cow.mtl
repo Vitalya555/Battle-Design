@@ -1,0 +1,80 @@
+newmtl Tail1Mtl
+Material Color
+Ka 0.74453 0.74453 0.737205
+Kd 0.74453 0.74453 0.737205
+Ks 0.0467156 0.0467156 0.046256 
+
+d 1
+
+Ns 0
+
+map_Ka Tail1_diff.png
+map_Kd Tail1_diff.png
+map_d Tail1_diff.png
+
+map_Bump Tail1_nmap.png
+
+newmtl EvilCow2Mtl
+Material Color
+Ka 0.74453 0.74453 0.737205
+Kd 0.74453 0.74453 0.737205
+Ks 0.294892 0.294892 0.291991 
+
+d 1
+
+Ns 0
+
+map_Ka Tail1_diff.png
+map_Kd Tail1_diff.png
+map_d Tail1_diff.png
+
+map_Bump Tail1_nmap.png
+
+newmtl EvilCow1Mtl
+Material Color
+Ka 0.00258583 0.00258583 0.00258583
+Kd 0.00258583 0.00258583 0.00258583
+Ks 0.00102419 0.00102419 0.00102419 
+
+d 1
+
+Ns 0
+
+map_Ka Tail1_diff.png
+map_Kd Tail1_diff.png
+map_d Tail1_diff.png
+
+map_Bump Tail1_nmap.png
+
+newmtl Backleftleg1Mtl
+Material Color
+Ka 0.0356144 0.0242229 0.0179364
+Kd 0.0356144 0.0242229 0.0179364
+Ks 0.00223463 0.00151987 0.00112542 
+
+d 1
+
+Ns 0
+
+map_Ka Tail1_diff.png
+map_Kd Tail1_diff.png
+map_d Tail1_diff.png
+
+map_Bump Tail1_nmap.png
+
+newmtl Udder1Mtl
+Material Color
+Ka 1 0.133209 0.612066
+Kd 1 0.133209 0.612066
+Ks 0.0627451 0.00835818 0.0384041 
+
+d 1
+
+Ns 0
+
+map_Ka Tail1_diff.png
+map_Kd Tail1_diff.png
+map_d Tail1_diff.png
+
+map_Bump Tail1_nmap.png
+

@@ -1,0 +1,51 @@
+newmtl Wing21Mtl
+Material Color
+Ka 0.68002 0.68002 0.68002
+Kd 0.68002 0.68002 0.68002
+Ke 0 0 0
+Ks 0.269341 0.269341 0.269341 
+
+d 1
+
+Ns 0
+
+map_Ka Wing21_diff.png
+map_Kd Wing21_diff.png
+map_d Wing21_diff.png
+
+map_Bump Wing21_nmap.png
+
+newmtl Chiken1Mtl
+Material Color
+Ka 0.940601 0.940601 0.940601
+Kd 0.940601 0.940601 0.940601
+Ke 0 0 0
+Ks 0.372552 0.372552 0.372552 
+
+d 1
+
+Ns 0
+
+map_Ka Wing21_diff.png
+map_Kd Wing21_diff.png
+map_d Wing21_diff.png
+
+map_Bump Wing21_nmap.png
+
+newmtl Rightleg1Mtl
+Material Color
+Ka 1 0.442323 0
+Kd 1 0.442323 0
+Ke 0 0 0
+Ks 0.396078 0.175195 0 
+
+d 1
+
+Ns 0
+
+map_Ka Wing21_diff.png
+map_Kd Wing21_diff.png
+map_d Wing21_diff.png
+
+map_Bump Wing21_nmap.png
+
